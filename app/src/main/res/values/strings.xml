@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_note">AddNoteActivity</string>
+    <string name="title_activity_trial">TrialActivity</string>
+    <string name="title_activity_the_boysandthe_frogs">TheBoysandtheFrogs</string>
+    <string name="title_activity_the_lionin_love_fable">TheLioninLoveFable</string>
+    <string name="title_activity_the_tortoiseandthe_birds_fable">TheTortoiseandtheBirdsFable
+    </string>
+    <string name="title_activity_the_foxandthe_grapes_fable">TheFoxandtheGrapesFable</string>
+    <string name="title_activity_the_cockandthe_pearl_fable">TheCockandthePearlFable</string>
+    <string name="title_activity_the_manandthe_wooden_god_fable">TheManandtheWoodenGodFable</string>
+    <string name="title_activity_the_buffoonandthe_countryman_fable">
+        TheBuffoonandtheCountrymanFable
+    </string>
+    <string name="title_activity_the_old_womanandthe_wine_jar_fable">TheOldWomanandtheWineJarFable
+    </string>
+    <string name="title_activity_the_town_mouseandthe_country_mouse_fable">
+        TheTownMouseandtheCountryMouseFable
+    </string>
+    <string name="title_activity_the_woodmanandthe_serpent_fable">TheWoodmanandtheSerpentFable
+    </string>
+    <string name="title_activity_view_note">ViewNote</string>
+</resources>
